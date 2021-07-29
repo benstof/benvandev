@@ -34,7 +34,7 @@ Years ago and far away in South Africa, 🇿🇦 I started my programming journe
           <img
             className="object-cover border-black border-8 rounded-full object-center rounded"
             alt="hero"
-            src="./profile.png"
+            src="./profile11.png"
           />
         </div>
       </div>
