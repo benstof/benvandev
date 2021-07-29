@@ -9,10 +9,10 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Ben.
-            <br className="hidden lg:inline-block" />I love coding beautiful apps.
+            <br className="hidden lg:inline-block" />I love coding sleek apps that solve real world problems.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Years ago on a beautiful plot of land in South Africa 🇿🇦 I started my programming journey in Delphi. Along the way I picked up on web technologies which kept feeding my web developer appetite. Most recently I've been running my own succesful Ecom business selling 🥩  biltong. In the end my love for coding and building great online experiences has remained. And with that I'm back in the beautiful world of full stack development. ⌨️
+            Years ago on a charming plot of land in South Africa 🇿🇦 I started my programming journey in Delphi. Along the way I picked up on web technologies which kept feeding my web developer appetite. Most recently my skills have contributed to running a succesful Shopify store. In the end my love for coding and building great online experiences has remained and brought me back to the limitless world of full stack development. ⌨️
           </p>
           <div className="flex justify-center">
             <a

@@ -1,36 +1,36 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Pivot Placer",
+    subtitle: "AngularJS, D3, PHP, Google Maps",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Developed this app for Senninger Irrigation when AngularJS rolled out. Users log in and place and build their pivots directly on Google Maps.",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "http://pivotplacer.com/#/app",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Amazon Free Sample",
+    subtitle: "Amazon API, AngularJS, PHP, MySql",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Amazon cusomters are directed to the free sample url. They would then enter their Amazon Order Id to receive a free sample of biltong.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+    link: "https://brooklynbiltong.com/free",
+   },
+  // {
+  //   title: "DevChat",
+  //   subtitle: "React and Firebase",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-3.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
+  // {
+  //   title: "Epic Todo App",
+  //   subtitle: "React Hooks",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-4.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
 ];
 
 export const testimonials = [
@@ -52,9 +52,9 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "PHP",
+  "MySql",
+  "Redux",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Sass",
 ];
