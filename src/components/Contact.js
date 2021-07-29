@@ -70,14 +70,14 @@ export default function Contact() {
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+          <h2 className="text-black sm:text-4xl text-3xl mb-1 font-medium title-font">
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
             I would love to work with you or for you. Talk soon.
           </p>
           <div className="relative mb-4">
-            <label htmlFor="name" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="name" className="leading-7 text-sm ">
               Name
             </label>
             <input
@@ -89,7 +89,7 @@ export default function Contact() {
             />
           </div>
           <div className="relative mb-4">
-            <label htmlFor="email" className="leading-7 text-sm text-gray-400">
+            <label htmlFor="email" className="leading-7 text-sm">
               Email
             </label>
             <input
@@ -103,7 +103,7 @@ export default function Contact() {
           <div className="relative mb-4">
             <label
               htmlFor="message"
-              className="leading-7 text-sm text-gray-400">
+              className="leading-7 text-sm ">
               Message
             </label>
             <textarea
@@ -115,7 +115,7 @@ export default function Contact() {
           </div>
           <button
             type="submit"
-            className="text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+            className="text-white bg-yellow-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
             Submit
           </button>
         </form>

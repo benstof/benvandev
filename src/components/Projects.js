@@ -6,15 +6,15 @@ import { projects } from "../data";
 
 export default function Projects() {
   return (
-    <section id="projects" className="text-gray-400 body-font">
+    <section id="projects" className="text-yellow-800 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <CodeIcon className="mx-auto inline-block w-10 mb-4" />
-          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
+          <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-black">
             Recent Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            More to come. These two apps will be redone in the MERN stack along with more functionality. 
+            More to come. Currently redoing both of these apps in the MERN stack.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
