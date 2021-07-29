@@ -14,7 +14,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Most of my experience is in PHP, Javascript and MySql. I'm also comfortable with SASS, flexbox and css grid. My most recently working with React.
+            Most of my experience is in PHP, Javascript and MySql. I'm also comfortable with SASS, flexbox and css grid. Most recently working with React.
 
           </p>
         </div>

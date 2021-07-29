@@ -11,7 +11,7 @@ export const projects = [
     title: "Amazon Free Sample",
     subtitle: "Amazon API, AngularJS, PHP, MySql",
     description:
-      "Amazon cusomters are directed to the free sample url. They would then enter their Amazon Order Id to receive a free sample of biltong.",
+      "Amazon customers are directed to the free sample url. They would then enter their Amazon Order Id to receive a free sample of biltong.",
     image: "./project-2.gif",
     link: "https://brooklynbiltong.com/free",
    },
