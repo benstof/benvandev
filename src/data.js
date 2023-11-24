@@ -1,5 +1,21 @@
 export const projects = [
   {
+    title: "IrriExpress",
+    subtitle: "Svelte, WindiCSS, NodeJS, MongoDB",
+    description:
+      "An online agricultural irrigation application designed to calculate precise pipe sizes, determine optimal pressure requirements, and define the layout extremes for pivot irrigation systems.",
+    image: "./project-3.gif",
+    link: "https://irriexpress.com",
+  },
+  {
+    title: "SennChart",
+    subtitle: "Svelte, WindiCSS, NodeJS, MongoDB",
+    description:
+      "I developed an in-house application for Senninger Irrigation that revolutionizes the process of calculating sprinkler requirements for specified center pivots.",
+    image: "./project-4.gif",
+    link: "https://sennchart.com",
+  },
+  {
     title: "Pivot Placer",
     subtitle: "AngularJS, D3, PHP, Google Maps",
     description:
@@ -15,22 +31,6 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://brooklynbiltong.com/free",
    },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
 ];
 
 export const testimonials = [
