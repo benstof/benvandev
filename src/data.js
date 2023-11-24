@@ -7,6 +7,7 @@ export const projects = [
     image: "./project-3.gif",
     link: "https://irriexpress.com",
   },
+  
   {
     title: "SennChart",
     subtitle: "Svelte, WindiCSS, NodeJS, MongoDB",
