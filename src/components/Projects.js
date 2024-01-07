@@ -14,7 +14,7 @@ export default function Projects() {
             Recent Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            More to come. Currently redoing both of these apps in the MERN stack.
+            Built in Svelte, Angular and React.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
